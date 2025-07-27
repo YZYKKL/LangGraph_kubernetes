@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: langchain-project
+Version: 0.1.0
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: openai
+Requires-Dist: langchain-mcp-adapters
+Requires-Dist: langgraph
+Requires-Dist: uvicorn
+Requires-Dist: fastapi
+Requires-Dist: langchain-deepseek
